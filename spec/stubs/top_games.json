@@ -1,0 +1,24 @@
+{
+    "top": [
+      {
+        "game": {
+          "id": 123,
+          "name": "My game",
+          "popularity": 456,
+          "box": {},
+          "logo": {},
+          "localized_name": "Localized game name"
+        }
+      },
+      {
+        "game": {
+          "id": 789,
+          "name": "My other game",
+          "popularity": 654,
+          "box": {},
+          "logo": {},
+          "localized_name": "Localized game name"
+        }
+      }
+    ]
+}
